@@ -1,2 +1,1 @@
-# WTQ909.2
-学习记录
+import java.util.Scanner;
